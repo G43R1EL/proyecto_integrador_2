@@ -2,6 +2,7 @@
 ## UNTREF Backend - Argentina Programa 4.0
 
 ### TODO:
+- Preparar .env con tu cadena de conexión
 - Instalar los módulos de node.js
   ```
     npm install
